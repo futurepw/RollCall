@@ -1,0 +1,8 @@
+F:\我的课件\RollCall\RollCall\obj\Debug\RollCall.csprojResolveAssemblyReference.cache
+F:\我的课件\RollCall\RollCall\obj\Debug\RollCall.Form1.resources
+F:\我的课件\RollCall\RollCall\obj\Debug\RollCall.Properties.Resources.resources
+F:\我的课件\RollCall\RollCall\obj\Debug\RollCall.csproj.GenerateResource.Cache
+F:\我的课件\RollCall\RollCall\bin\Debug\RollCall.exe
+F:\我的课件\RollCall\RollCall\bin\Debug\RollCall.pdb
+F:\我的课件\RollCall\RollCall\obj\Debug\RollCall.exe
+F:\我的课件\RollCall\RollCall\obj\Debug\RollCall.pdb
